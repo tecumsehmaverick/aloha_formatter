@@ -1,0 +1,82 @@
+.GENTICS_editable {
+	border: 1px solid #ddddcc;
+	padding: 5px 10px;
+}
+.GENTICS_editable :first-child {
+	margin-top: 0;
+}
+
+.GENTICS_editable h1 {
+	border: none;
+	font-size: 22px;
+	font-weight: bold;
+	margin: 5px 0 10px 0;
+	padding: 0;
+}
+.GENTICS_editable h2 {
+	border: none;
+	font-size: 17px;
+	font-weight: bold;
+	margin: 5px 0 10px 0;
+	padding: 0;
+}
+.GENTICS_editable h3 {
+	border: none;
+	font-size: 17px;
+	font-style: italic;
+	font-weight: bold;
+	margin: 5px 0 10px 0;
+	padding: 0;
+}
+.GENTICS_editable h4 {
+	border: none;
+	font-size: 17px;
+	font-style: italic;
+	font-weight: normal;
+	margin: 5px 0 10px 0;
+	padding: 0;
+}
+.GENTICS_editable h5 {
+	border: none;
+	font-size: 14px;
+	font-style: italic;
+	font-weight: normal;
+	margin: 5px 0 10px 0;
+	padding: 0;
+}
+.GENTICS_editable h6 {
+	border: none;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: normal;
+	margin: 5px 0 10px 0;
+	padding: 0;
+}
+
+.GENTICS_editable i {
+	color: inherit;
+	font-style: italic;
+}
+
+.GENTICS_editable ol {
+	margin: 5px 0 5px 10px;
+}
+.GENTICS_editable ol > li {
+	list-style: decimal inside;
+}
+
+.GENTICS_editable ul {
+	margin: 5px 0 5px 10px;
+}
+.GENTICS_editable ul > li {
+	list-style: disc inside;
+}
+
+.GENTICS_editable p {
+	font-size: 12px;
+	margin: 5px 0;
+}
+
+.GENTICS_editable pre {
+	font-size: 12px;
+}
